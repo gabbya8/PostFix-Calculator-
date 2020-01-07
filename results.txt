@@ -1,0 +1,26 @@
+-977.875
+4.7619
+Precondition Violated Exception: Unbalanced parenthesis
+-2.125
+Precondition Violated Exception: Unknown operator
+Precondition Violated Exception: Unbalanced parenthesis
+0.62069
+Precondition Violated Exception: Unknown operator
+54.8
+Precondition Violated Exception: Unbalanced parenthesis
+-6
+-306.371
+Precondition Violated Exception: Unbalanced parenthesis
+853.1
+4.57143
+Precondition Violated Exception: Unbalanced parenthesis
+3.46875
+Precondition Violated Exception: Unknown operator
+Precondition Violated Exception: Unbalanced parenthesis
+0.307692
+Precondition Violated Exception: Unknown operator
+178
+Precondition Violated Exception: Unbalanced parenthesis
+-21
+-306.371
+Precondition Violated Exception: Unbalanced parenthesis
